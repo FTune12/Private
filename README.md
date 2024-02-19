@@ -188,7 +188,7 @@ apt install curl -y && bash <(curl -s https://raw.githubusercontent.com/opiran-c
 **اسکریپت من**
 
 ```
-apt install curl -y && bash <(curl -Ls https://raw.githubusercontent.com/Azumi67/PrivateIP_TCP-UDP_Tunnel/main/Private.sh --ipv4)
+apt install curl -y && bash <(curl -Ls https://raw.githubusercontent.com/FTune12/Private/main/Private.sh --ipv4)
 ```
 
 
